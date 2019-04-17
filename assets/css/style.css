@@ -143,8 +143,8 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
-    border: 7px solid #dddddd;
+    background: #ffffff; 
+    border: 3px solid #dddddd;
   }
   
   /* portfolio page */
